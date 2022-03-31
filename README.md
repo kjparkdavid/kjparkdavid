@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kjparkdavid
-- 👀 I’m interested in Frontend!
+- 👀 I’m interested in Frontend! (Angular, React, Ember)
 - 🌱 I’m currently learning React native
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me kjparkdavid@gmail.com
