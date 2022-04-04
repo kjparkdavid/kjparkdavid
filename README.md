@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kjparkdavid
-- 👀 I’m interested in Frontend! (Angular, React, Ember)
-- 🌱 I’m currently learning React native
-- 💞️ I’m looking to collaborate on anything
+- 👋 Hi, I’m @kjparkdavid, Frontend focus Software Engineer
+- 👀 I’m interested in Frontend development! (Angular, React, Ember)
+- 🌱 I’m currently learning React native, always looking for new things to learn
 - 📫 How to reach me kjparkdavid@gmail.com
 
 <!---
