@@ -4,6 +4,8 @@
 - 📫 How to reach me kjparkdavid@gmail.com
 
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 <!---
 kjparkdavid/kjparkdavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
